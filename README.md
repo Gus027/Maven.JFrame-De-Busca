@@ -1,5 +1,5 @@
 # Aplicação: 
- - Neste Projeto desenvolvi uma aplicação para buscar informações ou inserir dados de clientes, onde o Usuario teria que buscar informações sobre o cliente para conseguir o acesso da Rede do mesmo via banco de dados. 
+ - Neste Projeto desenvolvido por vontade nos meus dois dias de folga, onde criei uma aplicação para buscar informações ou inserir dados de clientes, onde o Usuario teria que buscar informações sobre o cliente para conseguir o acesso da Rede do mesmo via banco de dados. 
 
 
 # Linguagem:
