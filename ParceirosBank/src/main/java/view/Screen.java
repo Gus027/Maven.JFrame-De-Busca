@@ -8,55 +8,6 @@ import javax.swing.*;
 
 public class Screen extends JFrame implements ActionListener{
     
-//    static String c = "04.763.356/0001-38";
-//    static String c1 = "30.551.485/0001-72";
-//    static String c2 = "28.806.649/0001-13";
-//    static String c3 = "30.261.106/0001-00";
-//    static String c4 = "29.326.587/0001-05";
-//    static String c5 = "30.547.129/0001-85";
-//    static String c6 = "28.806.649/0001-13";
-//    static String c7 = "30.111.262/0001-94";
-//    static String c8 = "26.058.218/0001-90";
-//    static String c9 = "04.303.112/0001-72";
-//    static String ca = "05.463.954/0001-54";
-//    static String cb = "04.361.389/0001-51";
-//    static String cc = "39.385.059/0001-80";
-//    static String cd = "05.054.647/0001-10";
-//    static String ce = "16.198.632/0001-41";
-//    static String cf = "05.594.579/0001-81";
-//    static String cg = "23.305.603/0001-05";
-//    static String ch = "02.823.845/0001-02";
-//    static String ci = "42.710.787/0001-25";
-//    static String cj = "44.415.651/0001-18";
-//    static String ck = "39.451.876/0001-90";
-//    static String cl = "32.585.055/0001-05";
-//    static String cm = "01.078.406/0001-50";
-//    static String cn = "06.013.569/0002-59";
-//    static String co = "36.966.446/0001-12";
-//    static String cp = "08.454.186/0001-60";
-//    static String cq = "42.710.787/0001-25";
-//    static String cr = "24.080.175/0001-14";
-//    static String cs = "39.320.692/0001-90";
-//    static String ct = "02.767.534/0001-73";
-//    static String cu = "08.864.565/0001-29";
-//    static String cv = "35.343.950/0001-01";
-//    static String cw = "39.358.593/0001-06";
-//    static String cy = "06.013.569/0002-59";
-//    static String cx = "25.244.451/0001-03";
-//    static String cz = "10.275.707/0001-64";
-//    static String c11 = "05.115.935/0001-37";
-//    static String c22 = "04.145.589/0007-62";
-//    static String c33 = "02.708.884/0001-69";
-//    static String c44 = "31.727.338/0001-73";
-//    static String c55 = "26.835.073/0002-78";
-//    static String c66 = "01.635.041/0002-06";
-//    static String c77 = "13.716.765/0001-74";
-//    static String c88 = "23.791.050/0001-30";
-//    static String c99 = "02.922.895/0001-47";
-//    static String caa = "07.962.599/0001-93";
-//    static String cbb = "07.830.414/0001-97";
-//    static String ccc = "34.387.666/0001-66";
-//    static String cdd = "10.679.515/0001-13";
     
     
     
